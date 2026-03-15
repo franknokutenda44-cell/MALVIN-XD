@@ -237,7 +237,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
-</p>
+</p>k
 
 
 </details>
